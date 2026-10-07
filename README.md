@@ -1,30 +1,21 @@
-# Mayank Patidar
+# Hi, I'm Mayank Patidar 👋
 
-AI Engineer focused on Computer Vision, Healthcare AI, Deep Learning, and Production-Grade Machine Learning Systems.
+AI Engineer | CTO @ Falcon-Groups
 
-## Featured Projects
+Building AI systems across Computer Vision, Healthcare AI, and Machine Learning Engineering.
 
+### Featured Projects
 - RSNA Knee Abnormality Detection
-- SATARKA – Personal Health Operating System
-- SnapClass – Multimodal Attendance Platform
-- RepWise – Real-Time AI Fitness Coach
-- Health Risk Prediction using Ensemble Learning
+- SATARKA
+- SnapClass
+- RepWise
 
-## Technologies
+### Tech
+Python • PyTorch • TensorFlow • FastAPI • OpenCV • Hugging Face
 
-Python • PyTorch • TensorFlow • FastAPI • OpenCV • Flutter • Hugging Face • PostgreSQL
+### Links
+🌐 Portfolio  - https://portfolio-ten-tau-iotgye6khm.vercel.app/
 
-## Achievements
+💼 LinkedIn  - www.linkedin.com/in/mayankptdr 
 
-- Smart India Hackathon (SIH) 2023 Winner
-- AI Showcase 2022 Winner
-- President, AINexus AI Club
-- Co-Founder, Gyaan-AI
-
-## Links
-
-Portfolio: https://portfolio-ten-tau-iotgye6khm.vercel.app/
-
-LinkedIn: https://your-linkedin-link
-
-Email: workmayankpatidar@gmail.com
+📧 workmayankpatidar@gmail.com
